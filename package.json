@@ -1,0 +1,13 @@
+{
+  "name": "php-env",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "build": "docker build . -t envtest",
+    "test": "docker run --rm --env-file .env1 envtest php index.php",
+    "int": "docker run -it --rm --env-file .env1 envtest"
+  },
+  "author": "",
+  "license": "ISC"
+}

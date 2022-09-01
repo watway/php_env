@@ -1,0 +1,9 @@
+NOQUOTES_1=noquotes
+WITHQUOTES_1='withquotes'
+WITHNEWLINE_1=line1\nline2
+WITHNEWLINEQUOTES_1="line1\nline2"
+OBJECT_1="{"a": 1, "b": 2}"
+BLANK_QUOTES_1=''
+BLANK_NOQUOTES_1=
+DASH-KEY-1=dash-key
+DASH_VALUE_1=some-value

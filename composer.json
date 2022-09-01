@@ -1,0 +1,15 @@
+{
+  "name": "watway/php_env",
+  "description": "PHP env testing",
+  "require": {
+    "vlucas/phpdotenv" : "2.4.0"
+  },
+  "require-dev": {
+  },
+  "authors": [
+    {
+      "name": "Craig Watson",
+      "email": "craig@watway.net"
+    }
+  ]
+}
